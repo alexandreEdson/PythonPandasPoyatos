@@ -1,2 +1,2 @@
-# AnimaCursoDeExtensaoPythonPandas2023-1
-Repositório dao13413413413413
+# Python Pandas 2023
+Curso de extensão Python Pandas
